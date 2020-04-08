@@ -1,0 +1,4 @@
+[submodule "src/functionObjects/lagrangian/lagrangianExtraFunctionObjects"]
+	path = src/functionObjects/lagrangian/lagrangianExtraFunctionObjects
+	url = https://github.com/blueCFD/lagrangianExtraFunctionObjects
+    branch = OF5x
