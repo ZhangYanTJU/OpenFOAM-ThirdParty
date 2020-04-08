@@ -2,3 +2,6 @@
 	path = src/functionObjects/lagrangian/lagrangianExtraFunctionObjects
 	url = https://github.com/blueCFD/lagrangianExtraFunctionObjects
     branch = OF5x
+[submodule "src/functionObjects/field/conditionalAverage"]
+	path = src/functionObjects/field/conditionalAverage
+	url = https://github.com/ZmengXu/conditionalAverage
