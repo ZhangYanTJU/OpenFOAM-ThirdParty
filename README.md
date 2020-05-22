@@ -9,5 +9,5 @@ Function object library re-adapted from OpenFOAM 5, to write to disk in the old 
 ## [conditionalAverage](src/functionObjects/field)
 OpenFOAM functionObject for postProcessing, getting the conditional averaged fields with a given scalarField
 
-## [autoReconstructPar](caseDicts/autoReconstructPar)
+## [autoReconstructPar](caseDicts)
 Use coded function in controlDict to reconstruct the mesh and fields in the run time.
