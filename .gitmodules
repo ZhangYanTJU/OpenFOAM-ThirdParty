@@ -4,4 +4,7 @@
     branch = OF5x
 [submodule "src/functionObjects/field/conditionalAverage"]
 	path = src/functionObjects/field/conditionalAverage
-	url = https://github.com/ZmengXu/conditionalAverage
+	url = https://github.com/ZmengXu/conditionalAverage  
+[submodule "caseDicts/autoReconstructPar"]
+	path = caseDicts/autoReconstructPar
+	url = https://github.com/ZmengXu/autoReconstructPar
