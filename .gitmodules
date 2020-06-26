@@ -8,3 +8,6 @@
 [submodule "caseDicts/autoReconstructPar"]
 	path = caseDicts/autoReconstructPar
 	url = https://github.com/ZmengXu/autoReconstructPar
+[submodule "src/functionObjects/field/sampledPlaneAverage"]
+	path = src/functionObjects/field/sampledPlaneAverage
+	url = https://github.com/ZmengXu/sampledPlaneAverage.git
