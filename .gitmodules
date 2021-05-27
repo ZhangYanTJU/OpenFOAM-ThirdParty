@@ -1,17 +1,22 @@
 [submodule "src/functionObjects/lagrangian/lagrangianExtraFunctionObjects"]
-	path = src/functionObjects/lagrangian/lagrangianExtraFunctionObjects
-	url = https://github.com/blueCFD/lagrangianExtraFunctionObjects
+    path = src/functionObjects/lagrangian/lagrangianExtraFunctionObjects
+    url = https://github.com/blueCFD/lagrangianExtraFunctionObjects
     branch = OF5x
     ignore = dirty
 [submodule "src/functionObjects/field/conditionalAverage"]
-	path = src/functionObjects/field/conditionalAverage
-	url = https://github.com/ZmengXu/conditionalAverage  
+    path = src/functionObjects/field/conditionalAverage
+    url = https://github.com/ZmengXu/conditionalAverage
     ignore = dirty
 [submodule "caseDicts/autoReconstructPar"]
-	path = caseDicts/autoReconstructPar
-	url = https://github.com/ZmengXu/autoReconstructPar
+    path = caseDicts/autoReconstructPar
+    url = https://github.com/ZmengXu/autoReconstructPar
     ignore = dirty
 [submodule "src/functionObjects/field/sampledPlaneAverage"]
-	path = src/functionObjects/field/sampledPlaneAverage
-	url = https://github.com/ZmengXu/sampledPlaneAverage.git
+    path = src/functionObjects/field/sampledPlaneAverage
+    url = https://github.com/ZmengXu/sampledPlaneAverage.git
+    ignore = dirty
+[submodule "src/chemistrySolver/DLBFoam"]
+    path = src/chemistrySolver/DLBFoam
+    url = https://github.com/Aalto-CFD/DLBFoam.git
+    branch = v1.0_OF7
     ignore = dirty
