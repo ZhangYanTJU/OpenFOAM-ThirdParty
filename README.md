@@ -19,5 +19,5 @@ OpenFOAM functionObject for postProcessing, getting the conditional averaged fie
 ## [autoReconstructPar](caseDicts)
 Use coded function in controlDict to reconstruct the mesh and fields in the run time.
 
-## [DLBFoam](src/chemistrySolver/DLBFoam)
+## [DLBFoam](src/chemistrySolver)
 An open-source dynamic load balancing model for fast reacting flow simulations in OpenFOAM.
