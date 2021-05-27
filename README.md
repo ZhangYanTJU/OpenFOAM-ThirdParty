@@ -1,5 +1,10 @@
 # OpenFOAM-ThirdParty
 
+download all tools
+```
+git clone --recurse-submodules https://github.com/ZhangYanTJU/OpenFOAM-ThirdParty.git
+```
+
 ## study Materials
 [studyMaterials.md](learning/studyMaterials.md)
 
